@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260525161608YFHP6C</value>
+    <value>20260525163634RA5H75</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260525161608DASJR4</value>
+    <value>20260525163634DD6MFD</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -61,7 +61,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779718563369</value>
+    <value>1779719722585</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -94,7 +94,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mplahc74-an4x04ost</odePageId>
+  <odePageId>page-mplb66o6-qs53cifz6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>BIENVENIDOS AL MUNDO ANIMAL</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -130,7 +130,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc74-an4x04ost</odePageId>
+      <odePageId>page-mplb66o6-qs53cifz6</odePageId>
       <odeBlockId>block-1778886523514-m3vl9o1yz</odeBlockId>
       <blockName>Proyecto: &quot;Descubrimos los animales&quot;</blockName>
       <iconName>observe</iconName>
@@ -159,7 +159,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc74-an4x04ost</odePageId>
+          <odePageId>page-mplb66o6-qs53cifz6</odePageId>
           <odeBlockId>block-1778886523514-m3vl9o1yz</odeBlockId>
           <odeIdeviceId>idevice-1778886523512-m3q1o9zyt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -191,7 +191,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc77-mynpjc6nj</odePageId>
+  <odePageId>page-mplb66o7-xrkth52ua</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿QUÉ VAMOS A APRENDER?</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -227,7 +227,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc77-mynpjc6nj</odePageId>
+      <odePageId>page-mplb66o7-xrkth52ua</odePageId>
       <odeBlockId>block-1778888222087-xg3gnte3c</odeBlockId>
       <blockName>En este proyecto vamos a:</blockName>
       <iconName>reflection</iconName>
@@ -256,7 +256,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc77-mynpjc6nj</odePageId>
+          <odePageId>page-mplb66o7-xrkth52ua</odePageId>
           <odeBlockId>block-1778888222087-xg3gnte3c</odeBlockId>
           <odeIdeviceId>idevice-1778888222084-s8fngt2dx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -287,7 +287,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc77-4h7u77u9o</odePageId>
+  <odePageId>page-mplb66o8-2j9ulavoz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>APRENDEMOS A USAR INTERNET DE FORMA SEGURA</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -323,7 +323,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc77-4h7u77u9o</odePageId>
+      <odePageId>page-mplb66o8-2j9ulavoz</odePageId>
       <odeBlockId>block-1778928359831-r0quxqyh7</odeBlockId>
       <blockName>Normas</blockName>
       <iconName>explore</iconName>
@@ -352,7 +352,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc77-4h7u77u9o</odePageId>
+          <odePageId>page-mplb66o8-2j9ulavoz</odePageId>
           <odeBlockId>block-1778928359831-r0quxqyh7</odeBlockId>
           <odeIdeviceId>idevice-1778928359829-p1lii7jjs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -386,7 +386,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc78-pp75e6d9b</odePageId>
+  <odePageId>page-mplb66o8-5fuwojyxj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>NUESTRO VIAJE POR LOS ANIMALES</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -422,7 +422,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc78-pp75e6d9b</odePageId>
+      <odePageId>page-mplb66o8-5fuwojyxj</odePageId>
       <odeBlockId>block-1778952372060-mrg99clrc</odeBlockId>
       <blockName>Línea temporal</blockName>
       <iconName>roadmap</iconName>
@@ -451,7 +451,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc78-pp75e6d9b</odePageId>
+          <odePageId>page-mplb66o8-5fuwojyxj</odePageId>
           <odeBlockId>block-1778952372060-mrg99clrc</odeBlockId>
           <odeIdeviceId>idevice-1778952372060-c4p44iun3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -487,8 +487,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc79-qh3b6nf6x</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66o8-x6v8519i3</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>Sesión 1: Descubrimos los animales</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -523,7 +523,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc79-qh3b6nf6x</odePageId>
+      <odePageId>page-mplb66o8-x6v8519i3</odePageId>
       <odeBlockId>block-1779631034700-6zbiv4i1g</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -552,7 +552,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc79-qh3b6nf6x</odePageId>
+          <odePageId>page-mplb66o8-x6v8519i3</odePageId>
           <odeBlockId>block-1779631034700-6zbiv4i1g</odeBlockId>
           <odeIdeviceId>idevice-1779631034698-br0ir9vlw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -587,8 +587,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc79-y4056x6an</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66o9-wowmhuy0x</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>Sesión 2: Imitamos animales</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -623,7 +623,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc79-y4056x6an</odePageId>
+      <odePageId>page-mplb66o9-wowmhuy0x</odePageId>
       <odeBlockId>block-1779631506914-c2jsgburt</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -652,7 +652,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc79-y4056x6an</odePageId>
+          <odePageId>page-mplb66o9-wowmhuy0x</odePageId>
           <odeBlockId>block-1779631506914-c2jsgburt</odeBlockId>
           <odeIdeviceId>idevice-1779631506913-t5su7luaj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -684,8 +684,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7a-rot5s0u9o</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66o9-lvhbrafw9</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>Sesión 3: Cuentos</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -720,7 +720,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7a-rot5s0u9o</odePageId>
+      <odePageId>page-mplb66o9-lvhbrafw9</odePageId>
       <odeBlockId>block-1779631628842-y3d0mv2iz</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -749,7 +749,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7a-rot5s0u9o</odePageId>
+          <odePageId>page-mplb66o9-lvhbrafw9</odePageId>
           <odeBlockId>block-1779631628842-y3d0mv2iz</odeBlockId>
           <odeIdeviceId>idevice-1779631628840-tetfakuzz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -783,8 +783,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7a-l089cqx9r</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66o9-01bptix4d</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>sesión 4: Canciones y movimiento</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -819,7 +819,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7a-l089cqx9r</odePageId>
+      <odePageId>page-mplb66o9-01bptix4d</odePageId>
       <odeBlockId>block-1779631804004-y2jx59v00</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -848,7 +848,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7a-l089cqx9r</odePageId>
+          <odePageId>page-mplb66o9-01bptix4d</odePageId>
           <odeBlockId>block-1779631804004-y2jx59v00</odeBlockId>
           <odeIdeviceId>idevice-1779631804003-4q20t6b36</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -882,8 +882,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7b-n3rszo5an</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66o9-o6w1cj2f4</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>Sesión 5: Juegos interactivos</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -918,7 +918,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7b-n3rszo5an</odePageId>
+      <odePageId>page-mplb66o9-o6w1cj2f4</odePageId>
       <odeBlockId>block-1779631870992-nkq3ec5i8</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -947,7 +947,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7b-n3rszo5an</odePageId>
+          <odePageId>page-mplb66o9-o6w1cj2f4</odePageId>
           <odeBlockId>block-1779631870992-nkq3ec5i8</odeBlockId>
           <odeIdeviceId>idevice-1779631870991-a6ev3kdge</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -982,8 +982,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7b-gu9kfauz5</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66o9-j63udsyek</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>Sesión 6: Relajación</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1018,7 +1018,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7b-gu9kfauz5</odePageId>
+      <odePageId>page-mplb66o9-j63udsyek</odePageId>
       <odeBlockId>block-1779632169305-0pq1axc8z</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1047,7 +1047,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7b-gu9kfauz5</odePageId>
+          <odePageId>page-mplb66o9-j63udsyek</odePageId>
           <odeBlockId>block-1779632169305-0pq1axc8z</odeBlockId>
           <odeIdeviceId>idevice-1779632169304-rgdc3ys3k</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1079,8 +1079,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7c-2mrm9w7pj</odePageId>
-  <odeParentPageId>page-mplahc78-pp75e6d9b</odeParentPageId>
+  <odePageId>page-mplb66oa-3mxn1mr52</odePageId>
+  <odeParentPageId>page-mplb66o8-5fuwojyxj</odeParentPageId>
   <pageName>Sesión 7: Proyecto final</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1115,7 +1115,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7c-2mrm9w7pj</odePageId>
+      <odePageId>page-mplb66oa-3mxn1mr52</odePageId>
       <odeBlockId>block-1779632245827-swtx6afmv</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1144,7 +1144,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7c-2mrm9w7pj</odePageId>
+          <odePageId>page-mplb66oa-3mxn1mr52</odePageId>
           <odeBlockId>block-1779632245827-swtx6afmv</odeBlockId>
           <odeIdeviceId>idevice-1779632245826-9luxc59z0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1178,7 +1178,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7f-2tzz72xp5</odePageId>
+  <odePageId>page-mplb66ob-nnabyx538</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EXPLORAMOS SOBRE LOS ANIMALES</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -1214,7 +1214,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7f-2tzz72xp5</odePageId>
+      <odePageId>page-mplb66ob-nnabyx538</odePageId>
       <odeBlockId>block-1778927269363-kd9jcipmh</odeBlockId>
       <blockName>Recursos</blockName>
       <iconName>geography</iconName>
@@ -1243,7 +1243,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7f-2tzz72xp5</odePageId>
+          <odePageId>page-mplb66ob-nnabyx538</odePageId>
           <odeBlockId>block-1778927269363-kd9jcipmh</odeBlockId>
           <odeIdeviceId>idevice-1778927269362-cgmdt24t0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1278,7 +1278,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7f-hjy3ms5jz</odePageId>
+  <odePageId>page-mplb66ob-rod1gdsu9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EVALUAMOS NUESTRO TRABAJO</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -1314,7 +1314,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7f-hjy3ms5jz</odePageId>
+      <odePageId>page-mplb66ob-rod1gdsu9</odePageId>
       <odeBlockId>block-1778928610225-9vxy9re70</odeBlockId>
       <blockName>Instrumentos</blockName>
       <iconName>collaborative</iconName>
@@ -1343,7 +1343,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7f-hjy3ms5jz</odePageId>
+          <odePageId>page-mplb66ob-rod1gdsu9</odePageId>
           <odeBlockId>block-1778928610225-9vxy9re70</odeBlockId>
           <odeIdeviceId>idevice-1778928610224-41m1ym0hl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1376,7 +1376,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7g-8l8ov0ocj</odePageId>
+  <odePageId>page-mplb66ob-n1j425phu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>GUÍA DIDÁCTICA</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -1412,7 +1412,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7g-8l8ov0ocj</odePageId>
+      <odePageId>page-mplb66ob-n1j425phu</odePageId>
       <odeBlockId>block-1778928734533-0g64xzp8r</odeBlockId>
       <blockName>Criterios de evaluación y Notion</blockName>
       <iconName>guide</iconName>
@@ -1441,7 +1441,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7g-8l8ov0ocj</odePageId>
+          <odePageId>page-mplb66ob-n1j425phu</odePageId>
           <odeBlockId>block-1778928734533-0g64xzp8r</odeBlockId>
           <odeIdeviceId>idevice-1778928734531-ugcpybf0w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1476,7 +1476,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mplahc7g-rl0wqalgb</odePageId>
+  <odePageId>page-mplb66ob-fdwy6qo4i</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRÉDITOS</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1512,7 +1512,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mplahc7g-rl0wqalgb</odePageId>
+      <odePageId>page-mplb66ob-fdwy6qo4i</odePageId>
       <odeBlockId>block-1778954935849-7pacjzjj3</odeBlockId>
       <blockName>Autoría y recursos</blockName>
       <iconName>draw</iconName>
@@ -1541,7 +1541,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mplahc7g-rl0wqalgb</odePageId>
+          <odePageId>page-mplb66ob-fdwy6qo4i</odePageId>
           <odeBlockId>block-1778954935849-7pacjzjj3</odeBlockId>
           <odeIdeviceId>idevice-1778954935848-6so6u2w24</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
